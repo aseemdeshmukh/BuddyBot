@@ -1,5 +1,6 @@
 # Buddy Bot 
 (DEMO of the project: https://youtu.be/Dx0UZHIQmxA)
+
 Buddy Bot is a basic chatbot which is developed using Python, OpenAI API, and LangChain to provide an interactive user experience. It incorporates intent recognition, email validation, natural language processing (NLP), and fallback mechanisms to handle unexpected inputs effectively.
 This repository contains chatbot designed to guide users through a series of conversational states and handle their inputs with predefined responses and fallbacks. 
 Here's a brief breakdown of the flow and error handling:
